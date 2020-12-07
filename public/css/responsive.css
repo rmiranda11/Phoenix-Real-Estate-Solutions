@@ -1,0 +1,209 @@
+@media(max-width: 786px) {
+
+    /* removes side gaps */
+    .row{
+        margin-left:-15px;
+        margin-right:-15px;
+    }
+
+
+    /* about page CSS*/
+
+    .abt-header{
+        height: 185vh;
+        display: inline-block;
+    }
+
+    .footer{
+        display: flex;
+    }
+
+    .about-title{
+        position: relative;
+        top:2rem;
+        font-size:3rem;
+    }
+
+    .title{
+        position: absolute;
+        top:1.5em;
+        margin:0 .3rem;
+        margin-left: 2rem;
+        font-size:3rem;
+    }
+
+    .bio-div{
+        margin-top:18rem;
+        padding:1em;
+        width:22em;
+    }
+
+    .main{
+        margin:0;
+    }
+    .bio{
+        top:1rem;
+        left:.2rem;
+        margin-top:-75em;
+        margin-bottom:-1em;
+    }
+
+    .bio-txt{
+        margin-top:1rem;
+        order:2;
+        font-size:1rem;
+    }
+
+    .bio-title{
+        margin-top:1rem;
+        margin-left:1.5rem;
+        font-size:2.1rem;
+    }
+
+
+    /* Home page CSS */
+
+    .statement{
+        padding:1em;
+    }
+    
+    .home-intro{
+        text-align: center;
+    }
+
+    .intro{
+        margin:12rem 2rem;
+    }
+
+    .home-icon{
+        text-align: center;
+        font-size:3rem;
+        margin-left:.1em;
+    }
+
+    .home-subtitle{
+        margin:1em 0 1em 0;
+        text-align: center;
+    }
+
+    .showing{
+        z-index: 1;
+    }
+    .logo{
+        margin:16px 1rem;
+    }
+
+    .title{
+        margin: 3.5em 0 0 ;
+    }
+
+    .title-sub{
+        margin-top:9.5em;
+    }
+
+    .video{
+        margin: 1em;
+    }
+    
+    .footer{
+        height:13rem;
+    }
+
+    .menu{
+        /* width:50%; */
+    }
+
+    /* Services */
+
+    .services-header{
+        height:40vh;
+    }
+
+    .carousel-caption{
+        margin-bottom:-1rem;
+        font-size: .8rem;
+        font-weight: 500;
+        color:#dbdbdb;
+        text-shadow:#092633 .1rem .1rem .1rem;
+    }
+
+    .carousel-item p{
+        margin:0 1rem 4rem;
+        font-size:.7rem;
+        font-family: 'Lato', sans-serif;
+    
+    }
+    
+    .carousel-item h5{
+        margin-top: -1em;
+        font-family: 'Lato', sans-serif;
+        font-size:1rem;
+    }
+    
+    .carousel-item{
+        height:300px;
+        width:auto;
+    }
+    .carousel-container{
+        background-color: #103345;
+        background-color: #862428;
+    }
+
+    .services-content{
+        margin-top:1em;
+        padding:2.2rem;
+        color:rgb(207, 204, 253);
+        font-size:1.2rem;
+        text-align: center;
+    }
+
+    .service-title{
+        margin:1.2rem 0 0 7rem;
+        font-size:2.7rem;
+        color:rgb(255, 255, 255);
+        font-family: 'Great Vibes', cursive;
+        text-shadow: 1px 1px black 
+    }
+
+    .service-img{
+        height:20rem;
+        /* width:0rem; */
+    }
+
+    .services-section{
+        /* margin-top:1rem; */
+        background-color:rgb(7, 4, 36);
+    }
+
+    .services-content-title{
+        margin:1rem auto;
+        font-size:2rem;
+        margin:1rem auto -2rem;
+        font-family: 'Lato', sans-serif;
+    }
+    
+    .services-phone{
+        font-size:2rem;
+        margin:0 auto 1rem;
+    }
+    
+    .emoji{
+        font-size:1.9rem;
+        font-family: 'Lato', sans-serif;
+        margin-bottom:-1rem;
+        color:black;
+    }
+
+    .quote{
+        color:rgb(207, 204, 253);
+        margin: 0rem 1rem 0;
+        text-align: center;
+        font-size:1.2rem;
+        font-family: 'Courgette', cursive;
+    }
+
+    .quote-name{
+        font-family: 'Courgette', cursive;
+        color:rgb(207, 204, 253);
+    }
+}

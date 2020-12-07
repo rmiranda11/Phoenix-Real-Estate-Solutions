@@ -1,0 +1,134 @@
+
+header{
+    background-image: url("https://cdn.wallpapersafari.com/18/79/sRcwod.jpg");
+
+}
+
+/* .row{
+    margin-left:15px;
+    margin-right:15px;
+} */
+
+
+.carousel-item{
+    height:35em;
+    width: 55em;
+}
+
+.carousel{
+    box-shadow: black .1rem .2rem .2rem ;
+
+}
+
+.carousel-container{
+    background-color:#092633;
+
+}
+
+.carousel-item p{
+    margin-top:1rem;
+    font-size:1.2rem;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.carousel-item h5{
+    /* margin-bottom: -.5em; */
+    font-family: 'Lato', sans-serif;
+
+}
+
+.carousel-item{
+    /* width:55em; */
+}
+
+.carousel-caption{
+    margin-bottom:-1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color:#092633;
+    color:#dbdbdb;
+    /* text-shadow:#065579 .1rem .1rem .1rem; */
+    text-shadow:#092633 .1rem .1rem .1rem;
+    /* text-shadow:#c3c3c3 .1rem .01rem .01rem; */
+}
+
+.black{
+    color:black;
+}
+
+.service-img{
+    /* background-size: 80%; */
+    /* height:30em; */
+}
+
+.service-title{
+    margin:1.2rem auto;
+    font-size:4rem;
+    color:rgb(255, 255, 255);
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 1px 1px black 
+}
+
+
+.quote{
+    color:rgb(207, 204, 253);
+    margin: 5rem 5rem 0;
+    text-align: center;
+    font-size:2.3rem;
+    font-family: 'Courgette', cursive;
+}
+
+.quote-name{
+    font-family: 'Courgette', cursive;
+    color:rgb(207, 204, 253);
+}
+
+.text-block{
+    background-color: rgba(0, 0, 0, 0.459);
+    width:100%;
+    height:9em;
+    margin:0 auto;
+    left:0;
+    bottom:0;
+    /* border:solid white .1rem  */
+}
+
+.services-block{
+    background-color:rgb(7, 4, 36);
+}
+
+.services-section{
+    justify-content: center;
+    display: flex;
+    margin:2rem auto;
+    text-align: center;
+}
+
+.services-content{
+    /* margin:0 auto; */
+    font-size:1.4rem;
+    justify-content: center;
+    display: flex;
+    margin:1rem auto;
+    color:rgb(207, 204, 253);
+}
+
+.services-content-title{
+    font-size:2rem;
+    margin:1rem auto 1rem;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.services-phone{
+    font-size:2rem;
+    margin:0 auto 1rem;
+
+}
+
+.emoji{
+    font-size:3rem;
+    font-family: 'Lato', sans-serif;
+
+}

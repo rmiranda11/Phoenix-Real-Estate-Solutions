@@ -1,0 +1,97 @@
+
+.bio{
+    margin:1rem auto;
+}
+
+.bio-div{
+    color:white;
+    font-family: "Helvetica Neue",sans-serif;
+    font-size:1rem;
+    margin:0 auto 2rem;
+    text-shadow: 1px 1px black 
+
+}
+
+.bio-div h2{
+    font-family: 'Lato', sans-serif;
+
+}
+
+header{
+    background-image: url("../photos/city2dark.jpg");
+    height:auto;
+
+}
+
+nav{
+    position: static;
+}
+
+.logo{
+    position:absolute;
+}
+
+
+.bio-txt{
+    font-size:1.1rem;
+    color:rgb(255, 255, 255);
+    line-height: 33px;
+    margin-bottom:1rem;
+    padding-bottom:2rem;
+    text-shadow: .05rem .05rem .05rem black ;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+nav{
+    position: static;
+}
+
+.logo{
+    position:absolute;
+}
+
+.lists{
+    line-height: 1.3rem;
+    font-size:1rem;
+    color:black;
+    padding:.1rem;
+}
+
+.light{
+    background-color:black;
+}
+
+.title{
+    margin:.4rem auto;
+    color:rgb(255, 255, 255);
+    font-family: 'Great Vibes', cursive;
+    font-size:3.5em;
+    justify-content:center;
+    text-shadow: 1px 1px black 
+}
+
+.about-title{
+    margin:.4rem auto;
+    color:rgb(255, 255, 255);
+    font-family: 'Great Vibes', cursive;
+    font-size:3.5em;
+    justify-content:center;
+    text-shadow: 1px 1px black 
+}
+
+
+/* .menu, .logo{
+    font-size:1.6rem;
+    font-weight:bold;
+    text-shadow: 1px 1px black 
+
+} */
+
+.pic{
+    height:1rem;
+    width:1rem;
+}
+
